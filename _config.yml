@@ -8,8 +8,8 @@
 # baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-url: "https://blog.fechten-hamm.de/test-blog-fechten/"
-baseurl: "/test-blog-fechten"
+# url: "https://blog.fechten-hamm.de/test-blog-fechten/"
+# ba#seurl: "/test-blog-fechten"
 # please comment them if you are using it as user page. 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
