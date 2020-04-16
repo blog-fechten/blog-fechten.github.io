@@ -25,8 +25,8 @@ Die Spielzeit einer Runde ist maximal ein bis zwei Minuten lang, damit keiner zu
 Dann wird neu gewürfelt.
 
 #### Variation
-* Kein Würfel oder falsche Spielerzahl
-* Das Würfeln lässt sich auch durch das Ziehen von Spielkarten oder noch simpler durch das Zurrufen von Zahlen ersetzen. 
-Der Vorteil hier ist außerdem, dass die Spielerzahlen flexibler sein können. 
+* Kein Würfel oder falsche Spielerzahl?
+* Das Würfeln lässt sich auch durch das Ziehen von Spielkarten, oder noch simpler durch das Zurrufen von Zahlen ersetzen. 
+Ein Vorteil gegenüber dem Würfel mit 6 Zaglen ist hier, dass die Spielerzahlen flexibler sein können. 
 (Skatspiel: bis 8 Spieler pro Team, Romméespiel: bis 13 Spieler je Team, Zuruf: ganz freie Spielerzahl) 
-und bessere Kontrolle über die Zahlen die dran sind besteht. Bei Kartenspiele etwa durch das Aussortieren der bereits gezogenen Karten.
+Bei benutzen der Kartenspiele kann man durch das Aussortieren der bereits gezogenen Karten, besser garantieren das alle dran kommen.
