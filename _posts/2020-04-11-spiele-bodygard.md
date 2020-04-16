@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bodygard Spiele Sammlung 
-tags: [Spiele,Spiel_beliebt]
+tags: [Spiele,Spiele_beliebt]
 author: Andreas Schockenhoff 
 email: ASchockenhoff@fechten-hamm.de
 ---

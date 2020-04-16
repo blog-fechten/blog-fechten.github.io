@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blitzball Spiele Sammlung 
-tags: [Spiele,Spiel_testen]
+tags: [Spiele,Spiele_testen]
 author: Andreas Schockenhoff 
 email: ASchockenhoff@fechten-hamm.de
 ---
