@@ -23,7 +23,7 @@ Der Bodyguard muss das Abschießen seines VIPs verhindern: er muss den Ball unbe
 Er darf den Ball fangen, mit den Händen oder sonstigen Körperteilen abwehren und sich schützend vor den VIP stellen. 
 VIP und Bodyguard dürfen sich frei im Kreis bewegen, diesen aber nicht verlassen.
 
-####Variante
+#### Variante
 Besonders schwierig wird es bei zwei oder noch mehr Bällen.
 Bei vielen Mitspielern und entsprechend großen Kreisen kann man auch die Anzahl der VIPs und Bodyguards erhöhen (z.B. 4 Bälle, 3 Bodyguards, 2 VIPs)
 
