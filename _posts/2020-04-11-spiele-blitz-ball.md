@@ -30,12 +30,3 @@ Dann wird neu gewürfelt.
 Der Vorteil hier ist außerdem, dass die Spielerzahlen flexibler sein können. 
 (Skatspiel: bis 8 Spieler pro Team, Romméespiel: bis 13 Spieler je Team, Zuruf: ganz freie Spielerzahl) 
 und bessere Kontrolle über die Zahlen die dran sind besteht. Bei Kartenspiele etwa durch das Aussortieren der bereits gezogenen Karten.
-
-#### Mehr Teams – gleicher Speed
-Gespielt wird mit vier Teams und auf 4 Bänken. Siehe 4-Ecken-Fußball.
-
-#### Ziel:
-Größere Gruppe ist anwesend, wobei nur immer eine kleinere Gruppe spielt. z.B. aus Platz oder Materialmangel.
-* Full Speed mit vielen wechseln der Spieler:(Beispiel: Wie im Eishockey) Es soll voll speed gespielt werden 
-deswegen wird viel gewechselt z.B nach Nummernschema. (muss ich mir noch was ausdenken.) 
-Oder nach Aktion im Schußkreis/Zone wird gewechselt.  
