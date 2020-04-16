@@ -16,12 +16,12 @@ Das Bewegungsspiel Flohspringen ist eine Herausforderung für die jungen Kinder.
 Es kann ab etwa 6 Jahren gespielt werden, es sollten ungefähr 5 Kinder spielen.
 
 Ein Kind/Trainer ist das jenige, das die Flöhe springen lässt. Es steht in der Mitte. 
-Dieses Kind bekommt ein Seil in die Hand. Die anderen Kinder bilden einen Kreis um dieses Kind herum.
-Das Kind mit dem Seil lässt nun das Seil kreisen indem es sich um seine eigene Achse dreht.
+Dieses Kind/Trainer bekommt ein Seil in die Hand. Die anderen Kinder bilden einen Kreis um dieses Kind/Trainer herum.
+Das Kind/Trainer mit dem Seil lässt nun das Seil kreisen indem es sich um seine eigene Achse dreht.
 
 Die Flöhe müssen über das Seil springen.
 
-Das Seil sollte knapp über dem Boden rotieren und nicht zu schnell geschwungen werden. ﻿
+Das Seil sollte am Anfang knapp über dem Boden rotieren und nicht zu schnell geschwungen werden. ﻿
 
 Wer nicht schnell genug oder nicht hoch genug springt und im Seil hängen bleibt, scheidet aus. 
 Der Floh, der am Schluss übrig ist, hat gewonnen.
