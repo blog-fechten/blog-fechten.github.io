@@ -12,7 +12,9 @@ Und noch einige Kinder YoYo´s die nur für ganz am Anfang, aber auch nicht wirk
 
 _Ja ist soweit OK. Werfen, Sleeper, Fußstart auch mit der linken Hand kein Problem._ 
 
-Ein qualitativ hochwertiger Sleeper ist gar nicht so einfach. Hohe Geschwindigkeit langes laufen ist das Ziel.
+Sleeper und dann mit der freien Hand an das Band stoßen so das der YoYo in die Hand zurück kehrt.
+
+Ein qualitativ hochwertiger [Sleeper](https://www.youtube.com/watch?v=663jODddung) ist gar nicht so einfach. Hohe Geschwindigkeit langes laufen ist das Ziel.
 Der YoYo legt sich dann gerne schräg oder bleibt nicht unten. 
 Die [Affenschaukel](https://www.youtube.com/watch?v=3f3FWqoeCTg) ist ein Trick der einem das Problem zeigt weil der YoYo soll ja wieder zurück in die Hand.  
 
