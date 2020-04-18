@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Motorik mit Tennisbällen
+title: Motorik mit keinen Bällen
 tags: [Fechten,Motorik,zuHause]
 author: Andreas Schockenhoff
 email: ASchockenhoff@fechten-hamm.de
@@ -9,4 +9,9 @@ email: ASchockenhoff@fechten-hamm.de
 
 Ach als Einstieg ins Jonglieren geeignet.
 
-Will man die Motorik trainieren geht es ums fangen. Will man jonglieren geht es ums genaue Werfen, :-)
+_Will man die Motorik trainieren geht es ums fangen. Will man jonglieren geht es ums genaue Werfen._ :-)
+
+* [Jonglieren](https://www.youtube.com/watch?v=03VNHsU2jZE) mit einem oder mehreren Bällen/Tüchern. 
+* Vorübungen z.B Stoff-Ball auf Hand/Handrücken. 
+Hier immer versuchen den Ball doch zu fangen also reagiren. 
+Auch wenn die Übung scheibar nicht funktioniert hat sie einen Sinn sie trainiert die Reaktionsfähigkeit!
