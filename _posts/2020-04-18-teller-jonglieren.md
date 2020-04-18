@@ -15,3 +15,5 @@ _Mit der linken Hand geht noch gar nix._
 _Rechts alles gut. Sogar wechsel auf linke Hand und zweiten Teller starten möglich._ 
 
 Idee: Am Anfang den Teller drehen und den Kindern auf den Stab zum balancieren geben.
+
+Anmerkung: Falls es schnell klappt bitte mit der anderen Hand. Oder in die andere Richtung drehen.
