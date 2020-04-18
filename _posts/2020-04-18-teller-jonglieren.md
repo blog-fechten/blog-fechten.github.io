@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Motorik üben 
+title: Teller jonglieren 
 tags: [Motorik,zuHause]
 author: Andreas Schockenhoff 
 email: ASchockenhoff@fechten-hamm.de
 ---
-### Teller jonglieren
 [Gefunden im Netz:](https://www.youtube.com/watch?v=hOA7SYkHB_k)
 
 _Ich habe verschiedene Teller und Stäbe, bisher klappt es bei mir nur mit dem "Henrys Jonglierteller inkl. Stab"
