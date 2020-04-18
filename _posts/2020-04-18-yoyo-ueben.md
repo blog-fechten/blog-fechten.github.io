@@ -15,4 +15,5 @@ _Ja ist soweit OK. Werfen, Sleeper, Fußstart auch mit der linken Hand kein Prob
 Ein qualitativ hochwertiger Sleeper ist gar nicht so einfach. Hohe Geschwindigkeit langes laufen ist das Ziel.
 Der YoYo legt sich dann gerne schräg oder bleibt nicht unten. 
 Die [Affenschaukel](https://www.youtube.com/watch?v=3f3FWqoeCTg) ist ein Trick der einem das Problem zeigt weil der YoYo soll ja wieder zurück in die Hand.  
-  
+
+Nächstes Ziel: [Pinwheel](https://www.youtube.com/watch?v=OXRD93cJvt0)  
